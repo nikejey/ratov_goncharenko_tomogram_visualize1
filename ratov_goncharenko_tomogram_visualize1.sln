@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ratov_goncharenko_tomogram_visualize1", "ratov_goncharenko_tomogram_visualize1\ratov_goncharenko_tomogram_visualize1.csproj", "{BD22F3EE-D797-47D8-8331-C34DA8DBB1BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD22F3EE-D797-47D8-8331-C34DA8DBB1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD22F3EE-D797-47D8-8331-C34DA8DBB1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD22F3EE-D797-47D8-8331-C34DA8DBB1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD22F3EE-D797-47D8-8331-C34DA8DBB1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {118BEFAD-B8B0-4E8C-A0A8-7C02FF8E3C59}
+	EndGlobalSection
+EndGlobal
